@@ -1,23 +1,27 @@
 ### Miguel Silveira Baptista 👋
-#### Estudante de Desenvolvimento de Sistemas | he/him
+#### System Development Student | he/him
 
-Sou um estudante de Desenvolvimento de Sistemas. Estou tentando aprender o máximo possível com as pessoas ao meu redor. Ah, e eu **odeio Java** 😅
-Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e outras tecnologias que uso no meu app Android.
+Sou estudante de Desenvolvimento de Sistemas, sempre buscando aprender o máximo possível com as pessoas ao meu redor e evoluir na área de tecnologia.
+
+Durante minha jornada acadêmica tive experiência com **Android Studio e Kotlin** no desenvolvimento do projeto **Wander**, um aplicativo mobile voltado para navegação indoor.  
+Atualmente estou expandindo meus conhecimentos em **desenvolvimento web e backend**, estudando **React e Java**.
+
+Também tenho experiência com **design de interfaces**, utilizando ferramentas como **Figma e Photoshop** para transformar ideias em interfaces visuais funcionais.
 
 ---
 
 ### 🚀 Principais Projetos
 
-- 🔍 **IndoorAR** – Aplicativo Android com Realidade Aumentada para navegação indoor.
-- 🧪 **Teste 1** – Repositório para testes e aprendizado.
+- 🔍 **Wander** – Aplicativo Android para navegação indoor utilizando tecnologias mobile.
+- 🧪 **Teste 1** – Repositório para testes, experimentos e aprendizado.
 
 ---
 
 ### 🧠 Atualmente estudando
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -30,8 +34,8 @@ Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e 
 
 ### 🇺🇸 Summary (English)
 
-I'm a System Development Student. Trying to learn as much as I can from people around me. Also... I **hate Java** 😂
-I'm currently exploring tools like Firebase, SQLite, AR, and other technologies I plan to use in my Android app.
+I'm a System Development student focused on improving my skills in software development.
 
-Currently working on:
-- 📱 IndoorAR (Augmented Reality indoor navigation app)
+I had experience working with **Android Studio and Kotlin** during the development of the **Wander** project, a mobile application focused on indoor navigation.
+
+Currently, I'm expanding my knowledge by studying **React and Java**, aiming to become a **full-stack developer** capable of building both user interfaces and application logic.
